@@ -1,0 +1,58 @@
+﻿@model IEnumerable<HR_Management.MVC.Models.LeaaveRequestModels.LeaveRequestVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Leavetype
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateRequested)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Approved)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeaveType.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateRequested)
+            </td>
+                <td>
+                    <form asp-action="Index" asp-controller="LeaveRequset" method="get" id="formFilter_@item.Id">
+                        <input value="@item.Id" name="LeaveRequestId" class="form-control" type="hidden" />
+                        <input name="approvedCheckbox" onchange="changePage('@item.Id')" type="checkbox" @(item.Approved.Value ? "checked" : "") />
+                    </form>
+                </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+
+</table>
+<script type="text/javascript">
+
+    function changePage(leaveRequestId) {
+        $("#formFilter_" + leaveRequestId).submit();
+    }
+
+</script>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "klD0Z2acbu+31wdEdoLJvhUZrq2Gce2hgDfPd1thZsU=",
+  "Source": "HR_Management.Api",
+  "BasePath": "_content/HR_Management.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

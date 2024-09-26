@@ -1,0 +1,24 @@
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.deps.json
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.dll
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.pdb
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.csproj.AssemblyReference.cache
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.AssemblyInfoInputs.cache
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.AssemblyInfo.cs
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.dll
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\refint\HR_Management.Domain.dll
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.pdb
+C:\Users\Parham Madaeny\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\ref\HR_Management.Domain.dll
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.deps.json
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.dll
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\bin\Debug\net6.0\HR_Management.Domain.pdb
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.csproj.AssemblyReference.cache
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.AssemblyInfoInputs.cache
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.AssemblyInfo.cs
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.dll
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\refint\HR_Management.Domain.dll
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\HR_Management.Domain.pdb
+C:\Users\Iman\source\repos\HR_Management\HR_Management.Domain\obj\Debug\net6.0\ref\HR_Management.Domain.dll

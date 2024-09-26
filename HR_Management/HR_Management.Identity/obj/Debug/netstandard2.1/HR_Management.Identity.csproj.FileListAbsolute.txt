@@ -1,0 +1,10 @@
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\bin\Debug\netstandard2.1\HR_Management.Identity.deps.json
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\bin\Debug\netstandard2.1\HR_Management.Identity.dll
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\bin\Debug\netstandard2.1\HR_Management.Identity.pdb
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.dll
+C:\Users\ASUS\Downloads\09_CleanCode_Madaeny\HR_Management\HR_Management.Identity\obj\Debug\netstandard2.1\HR_Management.Identity.pdb
