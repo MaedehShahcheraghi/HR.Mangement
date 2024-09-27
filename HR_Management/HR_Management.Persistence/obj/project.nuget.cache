@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZ07QCtL9bE=",
+  "dgSpecHash": "GTyifvY32hA=",
   "success": true,
-  "projectFilePath": "D:\\AspProject\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj",
+  "projectFilePath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

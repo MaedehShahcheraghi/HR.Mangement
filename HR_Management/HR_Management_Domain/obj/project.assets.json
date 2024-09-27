@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
+      "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
       "projectName": "HR_Management_Domain",
-      "projectPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
+      "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\obj\\",
+      "outputPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,11 +9,13 @@ using MediatR;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
+using HR_Management.Application.Responses;
+using System.Linq;
 
 namespace HR_Management.Application.Features.LeaveAllocations.Handlers.Commands
 {
     public class CreateLeaveAllocationsCommandHandler
-        : IRequestHandler<CreateLeaveAllocationsCommand, int>
+        : IRequestHandler<CreateLeaveAllocationsCommand, BaseCommandResponse>
     {
         private readonly ILeaveAllocationRepository leaveAllocationRepository;
         private readonly IMapper mapper;
@@ -26,17 +28,28 @@ namespace HR_Management.Application.Features.LeaveAllocations.Handlers.Commands
             this.mapper = mapper;
             this.leaveTypeRepository = leaveTypeRepository;
         }
-        public async Task<int> Handle(CreateLeaveAllocationsCommand request, CancellationToken cancellationToken)
+        public async Task<BaseCommandResponse> Handle(CreateLeaveAllocationsCommand request, CancellationToken cancellationToken)
         {
+            var response = new BaseCommandResponse();
             var validator = new CreateLeaveAllocationDtoValidator(leaveTypeRepository);
             var validationResult = await validator.ValidateAsync(request.LeaveAllocationDto);
 
             if (validationResult.IsValid == false)
-                throw new ValidationException(validationResult);
+            {
+                response.Success = false;
+                response.ErrorMessage=validationResult.Errors.Select(e=> e.ErrorMessage).ToList();
+                response.Message = "creation failed";
+                
+
+            }
+             
 
             var leaveAllocations = mapper.Map<LeaveAllocation>(request.LeaveAllocationDto);
             leaveAllocations = await leaveAllocationRepository.Add(leaveAllocations);
-            return leaveAllocations.Id;
+            response.Success=true;
+            response.Message = "creation sucessed";
+            response.Id= leaveAllocations.Id;
+            return response;
         }
     }
 }

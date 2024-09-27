@@ -26,3 +26,13 @@ D:\AspProject\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Man
 D:\AspProject\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.csproj.CoreCompileInputs.cache
 D:\AspProject\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.dll
 D:\AspProject\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.pdb
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management_Domain.deps.json
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management_Domain.dll
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\bin\Debug\netstandard2.1\HR_Management_Domain.pdb
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.AssemblyInfoInputs.cache
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.AssemblyInfo.cs
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.csproj.CoreCompileInputs.cache
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.sourcelink.json
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.dll
+D:\AspProject\HR_Management\HR_Management\HR_Management_Domain\obj\Debug\netstandard2.1\HR_Management_Domain.pdb

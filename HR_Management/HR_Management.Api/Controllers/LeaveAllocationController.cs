@@ -2,6 +2,7 @@
 using HR_Management.Application.DTOs.LeaveType;
 using HR_Management.Application.Features.LeaveAllocations.Requests.Commands;
 using HR_Management.Application.Features.LeaveAllocations.Requests.Queries;
+using HR_Management.Application.Responses;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -31,13 +32,13 @@ namespace HR_Management.Api.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<LeaveAllocationDto>> Get(int id)
         {
-            var leaveAllocations = await _mediator.Send(new GetLeaveAllocationListRequest());
+            var leaveAllocations = await _mediator.Send(new GetLeaveRequestDetailRequest() { Id=id} );
             return Ok(leaveAllocations);
         }
 
         // POST api/<LeaveAllocationController>
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] CreateLeaveAllocationDto createLeaveAllocation)
+        public async Task<ActionResult<BaseCommandResponse>> Post([FromBody] CreateLeaveAllocationDto createLeaveAllocation)
         {
             var command = await _mediator.Send(new CreateLeaveAllocationsCommand() { LeaveAllocationDto = createLeaveAllocation });
             return Ok(command);
@@ -47,8 +48,8 @@ namespace HR_Management.Api.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult> Put(int id, [FromBody] UpdateLeaveAllocationDto updateLeaveAllocation)
         {
-            var command=await _mediator.Send(new UpdateLeaveAllocationCommand() {  LeaveAllocationDto = updateLeaveAllocation });
-            return NoContent();
+            var command=await _mediator.Send(new UpdateLeaveAllocationCommand() { LeaveAllocationDto = updateLeaveAllocation });
+            return Ok();
         }
 
         // DELETE api/<LeaveAllocationController>/5
@@ -56,7 +57,7 @@ namespace HR_Management.Api.Controllers
         public async Task<ActionResult> Delete(int id)
         {
             var command=await _mediator.Send(new DeleteLeaveAllocationCommand() {  Id = id });  
-            return NoContent();
+            return Ok();
         }
     }
 }

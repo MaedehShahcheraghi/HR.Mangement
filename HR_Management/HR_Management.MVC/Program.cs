@@ -30,6 +30,7 @@ builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
 builder.Services.AddTransient<ILeaveTypeService, LeaveTypeService>();
 builder.Services.AddTransient<IAuthenticationService, AuthenticationService>();
 builder.Services.AddTransient<ILeaveRequestService, LeaveRequestService>();
+builder.Services.AddTransient<ILeaveAllocationService, LeaveAllocationService>();
 
 
 

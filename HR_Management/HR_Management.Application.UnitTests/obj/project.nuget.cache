@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "weJ2ehfOvlk=",
+  "dgSpecHash": "9lF/vWj2Bm4=",
   "success": true,
-  "projectFilePath": "D:\\AspProject\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
+  "projectFilePath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

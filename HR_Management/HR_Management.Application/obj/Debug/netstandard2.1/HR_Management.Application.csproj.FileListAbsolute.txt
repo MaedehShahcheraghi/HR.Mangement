@@ -37,3 +37,17 @@ D:\AspProject\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\H
 D:\AspProject\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Manag.DF611B53.Up2Date
 D:\AspProject\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.dll
 D:\AspProject\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.pdb
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.deps.json
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.dll
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.pdb
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management_Domain.dll
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management_Domain.pdb
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.csproj.AssemblyReference.cache
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.AssemblyInfoInputs.cache
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.AssemblyInfo.cs
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.csproj.CoreCompileInputs.cache
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.sourcelink.json
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Manag.DF611B53.Up2Date
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.dll
+D:\AspProject\HR_Management\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.pdb

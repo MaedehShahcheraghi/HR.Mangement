@@ -1,0 +1,43 @@
+﻿@model HR_Management.MVC.Models.LeaveAllocationModel.CreateLeaveAllocationVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CreateLeaveAllocationVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NumberOfDays" class="control-label"></label>
+                <input asp-for="NumberOfDays" class="form-control" />
+                <span asp-validation-for="NumberOfDays" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LeaveTypeId" class="control-label"></label>
+                <input asp-for="LeaveTypeId" class="form-control" />
+                <span asp-validation-for="LeaveTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Priod" class="control-label"></label>
+                <input asp-for="Priod" class="form-control" />
+                <span asp-validation-for="Priod" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

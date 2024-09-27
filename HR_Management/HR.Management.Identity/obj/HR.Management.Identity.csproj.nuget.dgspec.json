@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspProject\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj": {}
+    "D:\\AspProject\\HR_Management\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj": {}
   },
   "projects": {
-    "D:\\AspProject\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj": {
+    "D:\\AspProject\\HR_Management\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj",
+        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj",
         "projectName": "HR.Management.Identity",
-        "projectPath": "D:\\AspProject\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj",
+        "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR.Management.Identity\\HR.Management.Identity.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\HR_Management\\HR.Management.Identity\\obj\\",
+        "outputPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR.Management.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AspProject\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj": {
-                "projectPath": "D:\\AspProject\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj"
+              "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj": {
+                "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "D:\\AspProject\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj": {
+    "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj",
+        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj",
         "projectName": "HR_Management.Application",
-        "projectPath": "D:\\AspProject\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj",
+        "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\HR_Management.Application.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\HR_Management\\HR_Management.Application\\obj\\",
+        "outputPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,8 +128,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
-                "projectPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj"
+              "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
+                "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
+    "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
+        "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
         "projectName": "HR_Management_Domain",
-        "projectPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
+        "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\obj\\",
+        "outputPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

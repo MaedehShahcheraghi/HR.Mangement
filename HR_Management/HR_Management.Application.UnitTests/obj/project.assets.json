@@ -9482,11 +9482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
+      "projectUniqueName": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
       "projectName": "HR_Management.Application.UnitTests",
-      "projectPath": "D:\\AspProject\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
+      "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application.UnitTests\\HR_Management.Application.UnitTests.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\AspProject\\HR_Management\\HR_Management.Application.UnitTests\\obj\\",
+      "outputPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Application.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9503,11 +9503,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AspProject\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj": {
-              "projectPath": "D:\\AspProject\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj"
+            "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj": {
+              "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management.Persistence\\HR_Management.Persistence.csproj"
             },
-            "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
-              "projectPath": "D:\\AspProject\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj"
+            "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj": {
+              "projectPath": "D:\\AspProject\\HR_Management\\HR_Management\\HR_Management_Domain\\HR_Management_Domain.csproj"
             }
           }
         }
